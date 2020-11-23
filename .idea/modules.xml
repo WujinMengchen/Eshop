@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eshop.iml" filepath="$PROJECT_DIR$/.idea/Eshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop.iml" filepath="$PROJECT_DIR$/eshop/eshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-APIserver/eshop-APIserver.iml" filepath="$PROJECT_DIR$/eshop/eshop-APIserver/eshop-APIserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-cloud/eshop-cloud.iml" filepath="$PROJECT_DIR$/eshop/eshop-cloud/eshop-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-common/eshop-common.iml" filepath="$PROJECT_DIR$/eshop/eshop-common/eshop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-common_db/eshop-common_db.iml" filepath="$PROJECT_DIR$/eshop/eshop-common_db/eshop-common_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-eureka/eshop-eureka.iml" filepath="$PROJECT_DIR$/eshop/eshop-eureka/eshop-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-gateway/eshop-gateway.iml" filepath="$PROJECT_DIR$/eshop/eshop-gateway/eshop-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-gateway/eshop-gateway_merchant/eshop-gateway_merchant.iml" filepath="$PROJECT_DIR$/eshop/eshop-gateway/eshop-gateway_merchant/eshop-gateway_merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-gateway/eshop-gateway_user/eshop-gateway_user.iml" filepath="$PROJECT_DIR$/eshop/eshop-gateway/eshop-gateway_user/eshop-gateway_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-manager/eshop-manager.iml" filepath="$PROJECT_DIR$/eshop/eshop-manager/eshop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-oAuth/eshop-oAuth.iml" filepath="$PROJECT_DIR$/eshop/eshop-oAuth/eshop-oAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-service/eshop-service.iml" filepath="$PROJECT_DIR$/eshop/eshop-service/eshop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-APIserver/eshop-service-goods-api/eshop-service-goods-api.iml" filepath="$PROJECT_DIR$/eshop/eshop-APIserver/eshop-service-goods-api/eshop-service-goods-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-service/eshop-service_goods/eshop-service_goods.iml" filepath="$PROJECT_DIR$/eshop/eshop-service/eshop-service_goods/eshop-service_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-service/eshop-service_orders/eshop-service_orders.iml" filepath="$PROJECT_DIR$/eshop/eshop-service/eshop-service_orders/eshop-service_orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-service/eshop-service_search/eshop-service_search.iml" filepath="$PROJECT_DIR$/eshop/eshop-service/eshop-service_search/eshop-service_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/eshop-service/eshop-service_users/eshop-service_users.iml" filepath="$PROJECT_DIR$/eshop/eshop-service/eshop-service_users/eshop-service_users.iml" />
+    </modules>
+  </component>
+</project>

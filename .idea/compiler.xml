@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eshop-oAuth" />
+        <module name="eshop-service_goods" />
+        <module name="eshop-service_search" />
+        <module name="eshop-service_orders" />
+        <module name="eshop-service-goods-api" />
+        <module name="eshop-gateway_merchant" />
+        <module name="eshop-common" />
+        <module name="eshop-cloud" />
+        <module name="eshop-service_users" />
+        <module name="eshop-manager" />
+        <module name="eshop-gateway_user" />
+        <module name="eshop-common_db" />
+        <module name="eshop-eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eshop" target="11" />
+      <module name="eshop-APIserver" target="11" />
+      <module name="eshop-cloud" target="11" />
+      <module name="eshop-common" target="11" />
+      <module name="eshop-common_db" target="11" />
+      <module name="eshop-eureka" target="11" />
+      <module name="eshop-gateway" target="11" />
+      <module name="eshop-gateway_merchant" target="11" />
+      <module name="eshop-gateway_user" target="11" />
+      <module name="eshop-manager" target="11" />
+      <module name="eshop-oAuth" target="11" />
+      <module name="eshop-service" target="11" />
+      <module name="eshop-service-goods-api" target="11" />
+      <module name="eshop-service_goods" target="11" />
+      <module name="eshop-service_orders" target="11" />
+      <module name="eshop-service_search" target="11" />
+      <module name="eshop-service_users" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eshop-cloud" options="-parameters" />
+      <module name="eshop-common" options="-parameters" />
+      <module name="eshop-common_db" options="-parameters" />
+      <module name="eshop-eureka" options="-parameters" />
+      <module name="eshop-gateway_merchant" options="-parameters" />
+      <module name="eshop-gateway_user" options="-parameters" />
+      <module name="eshop-manager" options="-parameters" />
+      <module name="eshop-oAuth" options="-parameters" />
+      <module name="eshop-service-goods-api" options="-parameters" />
+      <module name="eshop-service_goods" options="-parameters" />
+      <module name="eshop-service_orders" options="-parameters" />
+      <module name="eshop-service_search" options="-parameters" />
+      <module name="eshop-service_users" options="-parameters" />
+    </option>
+  </component>
+</project>
